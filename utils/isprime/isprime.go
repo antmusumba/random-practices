@@ -15,7 +15,7 @@ func main (){
 		if !isprime{
 			continue
 		}
-		fmt.Print(n)
+		fmt.Println(n)
 
 	}
 }
