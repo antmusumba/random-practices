@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 func main (){
+	// printing all prime number below 50
 	const max = 50
 	for n := 2 ; n <= max ; n++ {
 		isprime := true
